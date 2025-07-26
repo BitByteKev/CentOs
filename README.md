@@ -13,3 +13,5 @@ Chown -x
 Chown -r
 
 netstat
+
+tar -xf

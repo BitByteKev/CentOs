@@ -1,5 +1,5 @@
 # CentOs
-pwd - Print working directory
+<b> pwd  </b> - Print working directory
 ls - Look inside
 cd - Go to directory
 mkdir - Make directory

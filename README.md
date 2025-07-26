@@ -1,12 +1,12 @@
 # CentOs
 <b> pwd  </b> - Print working directory
-ls - Look inside
-cd - Go to directory
-mkdir - Make directory
-yum - install apps
-mv - Move
-rm - Remove
-cp - Copy
+<b> ls </b> - Look inside
+<b> cd </b> - Go to directory
+<b> mkdir </b> - Make directory
+<b> yum </b> - install apps
+<b> mv </b> - Move
+<b> rm </b> - Remove
+<b> cp </b> - Copy
 
 Permissions: 
 Chown -x

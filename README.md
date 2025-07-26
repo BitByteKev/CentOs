@@ -6,6 +6,7 @@ mkdir - Make directory
 yum - install apps
 mv - Move
 rm - Remove
+cp - Copy
 
 Permissions: 
 Chown -x

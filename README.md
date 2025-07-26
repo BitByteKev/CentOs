@@ -10,8 +10,9 @@
 
 Permissions: 
 Chown -x
-Chown -r
+Chown -r 
+
++
 
 netstat
 
-tar -xf
